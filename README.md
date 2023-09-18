@@ -1,2 +1,3 @@
 # myNewRepo 
-<br> Tihs is written by Saurabh
+<br>
+This is written by Saurabh Sharma
